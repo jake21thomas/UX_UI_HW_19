@@ -1,0 +1,196 @@
+body {
+  background-image: url(https://storage.googleapis.com/uxfolio/642e194c6eb6220002614de8/portfolios/35179b76-f599-4165-972b-468c3dd19d2c/8P2YlJdW5Hj2P6OP.png);
+  background-size: 1920px 820px;
+  background-repeat: no-repeat;
+}
+
+button {
+  background-color: transparent;
+  border: none;
+  color: white;
+  margin: 20px;
+  font-family: satoshi;
+  font-weight: 500;
+  padding-left: 100px;
+  padding-bottom: 130px;
+  cursor: pointer;
+}
+
+.bio3 {
+  padding:10px;
+  margin: 10px;
+  color: white;
+  font-family: satoshi;
+  padding-left: 90px;
+  font-size: 20px;
+  font-weight: 4500;
+}
+
+.aboutme {
+  margin-top: 500px;
+  color: black;
+  font-family: satoshi;
+  font-weight: 800;
+  padding-left: 720px;
+  font-size: 45px
+}
+
+.aboutme2 {
+  padding:40px;
+  color: rgb(128, 126, 126);
+  font-family: satoshi;
+  padding-left: 720px;
+  font-size: 18px;
+}
+
+.flex {
+  display: flex;
+  padding: 10px;
+  margin: 10px;
+  font-family: satoshi;
+}
+
+#column {
+  flex-direction: column;
+}
+
+.bio {
+  margin: 10px;
+  font-size: 55px;
+  font-weight: 800;
+  color: white;
+  font-family: satoshi;
+  padding-left: 90px;
+}
+
+.bio2 {
+  margin: 10px;
+  font-size: 30px;
+  font-weight: 600;
+  color: white;
+  font-family: satoshi;
+  padding-left: 90px;
+}
+
+#div1, #div2, #div3 {
+  color: black;
+  font-family: satoshi;
+  font-weight: 600;
+  font-size: 35px;
+  text-align: center;
+  margin-top: 50px;
+  align-items: center;
+}
+
+.container-img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.container-img ul {
+  margin-top: 30px;
+  padding: 0;
+  list-style: none;
+}
+
+.container-img ul li {
+  font-family: satoshi;
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+
+.col-sm-4 {
+  padding: 80px;
+  padding-top: 200px;
+}
+
+img {
+  margin-top: 10px;
+  align-items: center;
+  justify-content: center;
+}
+
+.casestudies {
+  margin-top: 100px;
+  margin-bottom: 50px;
+  color: black;
+  font-family: satoshi;
+  font-weight: 800;
+  text-align: center;
+  font-size: 45px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.img-fluid {
+  height: 500px;
+}
+
+.casestudytitle {
+  color: black;
+  font-family: satoshi;
+  font-weight: 800;
+  font-size: 35px;
+}
+
+.casestudyinfo {
+  color: black;
+  font-family: satoshi;
+  font-weight: 200;
+  font-size: 20px;
+}
+
+.casestudybutton {
+  background-color: rgb(173, 68, 103);
+  color: white;
+  font-family: satoshi;
+  padding: 15px 32px;
+  text-align: center;
+  font-size: 16px;
+  border-radius: 40px;
+  margin: 0%;
+  margin-top: 20px;
+}
+
+.container {
+  padding-top: 200px;
+}
+
+.form-container {
+  display: flex;
+  justify-content: center;
+  padding-top: 10px;
+}
+.btn {
+  background-color: rgb(173, 68, 103);
+  font-family: satoshi;
+  padding: 15px 32px;
+  text-align: center;
+  font-size: 16px;
+  border-radius: 40px;
+  margin: 0%;
+  margin-top: 20px;
+  font-weight: bolder;
+  border: none;
+}
+.text-md-left {
+  color: white;
+}
+
+h2 {
+  color: black;
+  font-family: satoshi;
+  text-align: center;
+  font-size: 45px;
+  padding-top: 100px;
+  padding-bottom: 10px;
+}
+
+p {
+  font-family: satoshi;
+  color: rgb(128, 126, 126);
+  font-size: 18px;
+}
